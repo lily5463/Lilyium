@@ -1,0 +1,540 @@
+{
+  "subsonic-response": {
+    "status": "ok",
+    "version": "1.16.1",
+    "type": "navidrome",
+    "serverVersion": "0.55.1 (beb768cd)",
+    "openSubsonic": true,
+    "albumList": {
+      "album": [
+        {
+          "id": "4crRpCNnTrwglFrkxnhjL4",
+          "parent": "2n56dRwF54YGGBzlE8mdTU",
+          "isDir": true,
+          "title": "#ALL FRIENDS [Limited Edition]",
+          "name": "#ALL FRIENDS [Limited Edition]",
+          "album": "#ALL FRIENDS [Limited Edition]",
+          "artist": "Lynx Eyes",
+          "year": 2022,
+          "genre": "Vocal",
+          "coverArt": "al-4crRpCNnTrwglFrkxnhjL4_68f2071e",
+          "duration": 1083,
+          "playCount": 3,
+          "created": "2025-06-16T15:59:38.801146644Z",
+          "artistId": "2n56dRwF54YGGBzlE8mdTU",
+          "songCount": 4,
+          "isVideo": false,
+          "played": "2025-09-20T17:56:28.201Z",
+          "bpm": 0,
+          "comment": "",
+          "sortName": "#all friends [limited edition]",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Vocal"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "2n56dRwF54YGGBzlE8mdTU",
+              "name": "Lynx Eyes"
+            }
+          ],
+          "displayArtist": "Lynx Eyes",
+          "albumArtists": [
+            {
+              "id": "2n56dRwF54YGGBzlE8mdTU",
+              "name": "Lynx Eyes"
+            }
+          ],
+          "displayAlbumArtist": "Lynx Eyes",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "73Y4PUXvqt89E4rATVnfdd",
+          "parent": "2n56dRwF54YGGBzlE8mdTU",
+          "isDir": true,
+          "title": "#ALL FRIENDS [Regular Edition A ver.]",
+          "name": "#ALL FRIENDS [Regular Edition A ver.]",
+          "album": "#ALL FRIENDS [Regular Edition A ver.]",
+          "artist": "Lynx Eyes",
+          "year": 2022,
+          "genre": "Vocal",
+          "coverArt": "al-73Y4PUXvqt89E4rATVnfdd_68f2071d",
+          "duration": 786,
+          "playCount": 2,
+          "created": "2025-06-16T15:59:30.390469555Z",
+          "artistId": "2n56dRwF54YGGBzlE8mdTU",
+          "songCount": 3,
+          "isVideo": false,
+          "played": "2025-10-18T04:35:23.47Z",
+          "bpm": 0,
+          "comment": "",
+          "sortName": "#all friends [regular edition a ver.]",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Vocal"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "2n56dRwF54YGGBzlE8mdTU",
+              "name": "Lynx Eyes"
+            }
+          ],
+          "displayArtist": "Lynx Eyes",
+          "albumArtists": [
+            {
+              "id": "2n56dRwF54YGGBzlE8mdTU",
+              "name": "Lynx Eyes"
+            }
+          ],
+          "displayAlbumArtist": "Lynx Eyes",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "3NeUSlkY4Ez4wMCxwGj1dn",
+          "parent": "2n56dRwF54YGGBzlE8mdTU",
+          "isDir": true,
+          "title": "#ALL FRIENDS [Regular Edition B ver.]",
+          "name": "#ALL FRIENDS [Regular Edition B ver.]",
+          "album": "#ALL FRIENDS [Regular Edition B ver.]",
+          "artist": "Lynx Eyes",
+          "year": 2022,
+          "genre": "Vocal",
+          "coverArt": "al-3NeUSlkY4Ez4wMCxwGj1dn_68f2071e",
+          "duration": 861,
+          "playCount": 2,
+          "created": "2025-06-16T15:59:29.547598942Z",
+          "artistId": "2n56dRwF54YGGBzlE8mdTU",
+          "songCount": 3,
+          "isVideo": false,
+          "played": "2025-10-27T13:06:49.477Z",
+          "bpm": 0,
+          "comment": "",
+          "sortName": "#all friends [regular edition b ver.]",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Vocal"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "2n56dRwF54YGGBzlE8mdTU",
+              "name": "Lynx Eyes"
+            }
+          ],
+          "displayArtist": "Lynx Eyes",
+          "albumArtists": [
+            {
+              "id": "2n56dRwF54YGGBzlE8mdTU",
+              "name": "Lynx Eyes"
+            }
+          ],
+          "displayAlbumArtist": "Lynx Eyes",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "2S2L7twEFo49fnnTCx2R5L",
+          "parent": "0thq7yxFYh9rGbNLF9OGZz",
+          "isDir": true,
+          "title": "#HAL - ブラッククローバーver. - - EP",
+          "name": "#HAL - ブラッククローバーver. - - EP",
+          "album": "#HAL - ブラッククローバーver. - - EP",
+          "artist": "感覚ピエロ",
+          "year": 2017,
+          "genre": "ロック",
+          "coverArt": "al-2S2L7twEFo49fnnTCx2R5L_68fde901",
+          "duration": 808,
+          "created": "2025-10-26T09:28:26.265276172Z",
+          "artistId": "0thq7yxFYh9rGbNLF9OGZz",
+          "songCount": 5,
+          "isVideo": false,
+          "bpm": 0,
+          "comment": "",
+          "sortName": "#hal - ブラッククローバーver. - - ep",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "ロック"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "0thq7yxFYh9rGbNLF9OGZz",
+              "name": "感覚ピエロ"
+            }
+          ],
+          "displayArtist": "感覚ピエロ",
+          "albumArtists": [
+            {
+              "id": "0thq7yxFYh9rGbNLF9OGZz",
+              "name": "感覚ピエロ"
+            }
+          ],
+          "displayAlbumArtist": "感覚ピエロ",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "3wsb1KBIbwY9r6GqMfqrSs",
+          "parent": "7c5MYkJKg6i45GWEHVFEQq",
+          "isDir": true,
+          "title": "- Murasaki -",
+          "name": "- Murasaki -",
+          "album": "- Murasaki -",
+          "artist": "RONDO",
+          "year": 2023,
+          "genre": "Vocal",
+          "coverArt": "al-3wsb1KBIbwY9r6GqMfqrSs_68f20734",
+          "duration": 1520,
+          "playCount": 6,
+          "created": "2025-06-16T12:04:59.021429071Z",
+          "artistId": "7c5MYkJKg6i45GWEHVFEQq",
+          "songCount": 6,
+          "isVideo": false,
+          "played": "2025-11-05T12:23:33.257Z",
+          "bpm": 0,
+          "comment": "",
+          "sortName": "- murasaki -",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Vocal"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "7c5MYkJKg6i45GWEHVFEQq",
+              "name": "RONDO"
+            }
+          ],
+          "displayArtist": "RONDO",
+          "albumArtists": [
+            {
+              "id": "7c5MYkJKg6i45GWEHVFEQq",
+              "name": "RONDO"
+            }
+          ],
+          "displayAlbumArtist": "RONDO",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "4nyJk1vYKQyMxXmQPU1mvD",
+          "parent": "1PK9ESzFUSdbLnfRgdjmaS",
+          "isDir": true,
+          "title": "- 茈 -",
+          "name": "- 茈 -",
+          "album": "- 茈 -",
+          "artist": "燐舞曲",
+          "year": 2023,
+          "genre": "Game",
+          "coverArt": "al-4nyJk1vYKQyMxXmQPU1mvD_6850c6a0",
+          "duration": 1024,
+          "playCount": 4,
+          "created": "2025-06-16T15:56:50.820669957Z",
+          "artistId": "1PK9ESzFUSdbLnfRgdjmaS",
+          "songCount": 4,
+          "isVideo": false,
+          "played": "2025-11-05T13:14:49.653Z",
+          "bpm": 0,
+          "comment": "",
+          "sortName": "- 茈 -",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Game"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "1PK9ESzFUSdbLnfRgdjmaS",
+              "name": "燐舞曲"
+            }
+          ],
+          "displayArtist": "燐舞曲",
+          "albumArtists": [
+            {
+              "id": "1PK9ESzFUSdbLnfRgdjmaS",
+              "name": "燐舞曲"
+            }
+          ],
+          "displayAlbumArtist": "燐舞曲",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "4vlXZD6g4DyfK3S2VySRCa",
+          "parent": "1PK9ESzFUSdbLnfRgdjmaS",
+          "isDir": true,
+          "title": "-未来- [Disc 1]",
+          "name": "-未来- [Disc 1]",
+          "album": "-未来- [Disc 1]",
+          "artist": "燐舞曲",
+          "year": 2025,
+          "genre": "Game",
+          "coverArt": "al-4vlXZD6g4DyfK3S2VySRCa_684fd2ba",
+          "duration": 2856,
+          "playCount": 24,
+          "created": "2025-06-16T07:52:52.000307222Z",
+          "artistId": "1PK9ESzFUSdbLnfRgdjmaS",
+          "songCount": 12,
+          "isVideo": false,
+          "played": "2025-11-09T17:01:32.519Z",
+          "bpm": 0,
+          "comment": "",
+          "sortName": "-未来- [disc 1]",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Game"
+            },
+            {
+              "name": "Anime"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "1PK9ESzFUSdbLnfRgdjmaS",
+              "name": "燐舞曲"
+            }
+          ],
+          "displayArtist": "燐舞曲",
+          "albumArtists": [
+            {
+              "id": "1PK9ESzFUSdbLnfRgdjmaS",
+              "name": "燐舞曲"
+            }
+          ],
+          "displayAlbumArtist": "燐舞曲",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "3Id0UzZCpd4OBGzRlTsbPh",
+          "parent": "4V2cUTbxdn3myOwTeGjt9b",
+          "isDir": true,
+          "title": "-未来- [Disc 2]",
+          "name": "-未来- [Disc 2]",
+          "album": "-未来- [Disc 2]",
+          "artist": "三宅葵依(CV.つんこ)",
+          "year": 2025,
+          "genre": "Game",
+          "coverArt": "al-3Id0UzZCpd4OBGzRlTsbPh_684fd283",
+          "duration": 213,
+          "created": "2025-06-16T07:52:52.34208153Z",
+          "artistId": "4V2cUTbxdn3myOwTeGjt9b",
+          "songCount": 1,
+          "isVideo": false,
+          "bpm": 0,
+          "comment": "",
+          "sortName": "-未来- [disc 2]",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Game"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "4V2cUTbxdn3myOwTeGjt9b",
+              "name": "三宅葵依(CV.つんこ)"
+            }
+          ],
+          "displayArtist": "三宅葵依(CV.つんこ)",
+          "albumArtists": [
+            {
+              "id": "4V2cUTbxdn3myOwTeGjt9b",
+              "name": "三宅葵依(CV.つんこ)"
+            }
+          ],
+          "displayAlbumArtist": "三宅葵依(CV.つんこ)",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "7rTxYtz8knFvhKTLMaMjSv",
+          "parent": "2AGXn1Pmrgo2oCVk8d06yQ",
+          "isDir": true,
+          "title": "-未来- [Disc 2]",
+          "name": "-未来- [Disc 2]",
+          "album": "-未来- [Disc 2]",
+          "artist": "月見山渚(CV.大塚紗英)",
+          "year": 2025,
+          "genre": "Game",
+          "coverArt": "al-7rTxYtz8knFvhKTLMaMjSv_684fd26f",
+          "duration": 309,
+          "created": "2025-06-16T07:52:52.342379193Z",
+          "artistId": "2AGXn1Pmrgo2oCVk8d06yQ",
+          "songCount": 1,
+          "isVideo": false,
+          "bpm": 0,
+          "comment": "",
+          "sortName": "-未来- [disc 2]",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Game"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "2AGXn1Pmrgo2oCVk8d06yQ",
+              "name": "月見山渚(CV.大塚紗英)"
+            }
+          ],
+          "displayArtist": "月見山渚(CV.大塚紗英)",
+          "albumArtists": [
+            {
+              "id": "2AGXn1Pmrgo2oCVk8d06yQ",
+              "name": "月見山渚(CV.大塚紗英)"
+            }
+          ],
+          "displayAlbumArtist": "月見山渚(CV.大塚紗英)",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        },
+        {
+          "id": "0Gv72tOOQEmTx87M2K3V73",
+          "parent": "1PK9ESzFUSdbLnfRgdjmaS",
+          "isDir": true,
+          "title": "-未来- [Disc 2]",
+          "name": "-未来- [Disc 2]",
+          "album": "-未来- [Disc 2]",
+          "artist": "燐舞曲",
+          "year": 2025,
+          "genre": "Game",
+          "coverArt": "al-0Gv72tOOQEmTx87M2K3V73_684fd2bb",
+          "duration": 1450,
+          "playCount": 9,
+          "created": "2025-06-16T09:15:39.192038562Z",
+          "artistId": "1PK9ESzFUSdbLnfRgdjmaS",
+          "songCount": 6,
+          "isVideo": false,
+          "played": "2025-11-11T03:39:19.037Z",
+          "bpm": 0,
+          "comment": "",
+          "sortName": "-未来- [disc 2]",
+          "mediaType": "album",
+          "musicBrainzId": "",
+          "genres": [
+            {
+              "name": "Game"
+            }
+          ],
+          "replayGain": {
+
+          },
+          "channelCount": 0,
+          "samplingRate": 0,
+          "bitDepth": 0,
+          "moods": [],
+          "artists": [
+            {
+              "id": "1PK9ESzFUSdbLnfRgdjmaS",
+              "name": "燐舞曲"
+            }
+          ],
+          "displayArtist": "燐舞曲",
+          "albumArtists": [
+            {
+              "id": "1PK9ESzFUSdbLnfRgdjmaS",
+              "name": "燐舞曲"
+            }
+          ],
+          "displayAlbumArtist": "燐舞曲",
+          "contributors": [],
+          "displayComposer": "",
+          "explicitStatus": ""
+        }
+      ]
+    }
+  }
+}
