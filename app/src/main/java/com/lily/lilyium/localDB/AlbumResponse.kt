@@ -1,6 +1,6 @@
 package com.lily.lilyium.localDB
 
-import com.lily.lilyium.localDB.model.testSong
+import com.lily.lilyium.localDB.model.Album
 import com.squareup.moshi.Json
 
 data class AlbumResponse(
@@ -17,5 +17,5 @@ data class SubsonicResponse(
 )
 
 data class AlbumList(
-    val album: List<testSong>
+    val album: List<Album>
 )

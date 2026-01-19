@@ -1,11 +1,9 @@
-package com.lily.lilyium.localDB.model
+package com.lily.lilyium.api.model
 
-import androidx.room.Entity
-import androidx.room.PrimaryKey
+import com.squareup.moshi.JsonClass
 
-@Entity(tableName = "album")
+@JsonClass(generateAdapter = true )
 data class Album (
-    @PrimaryKey
     val id: String,
 
     val parent: String?,

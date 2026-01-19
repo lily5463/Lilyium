@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/nav_transform"
-        android:name="com.lily.lilyium.ui.transform.TransformFragment"
+        android:name="com.lily.lilyium.ui.home.HomeFragment"
         android:label="@string/menu_transform"
-        tools:layout="@layout/fragment_transform" />
+        tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_reflow"

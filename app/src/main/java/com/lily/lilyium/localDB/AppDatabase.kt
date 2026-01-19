@@ -5,12 +5,12 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import com.lily.lilyium.localDB.model.testSong
+import com.lily.lilyium.localDB.model.Album
 import com.lily.lilyium.localDB.service.DatabaseDao
 
 
 @Database(
-    entities = [testSong::class],
+    entities = [Album::class],
     version = 1,
     exportSchema = false
 )
@@ -32,7 +32,9 @@ import com.lily.lilyium.localDB.service.DatabaseDao
                     context.applicationContext,
                     AppDatabase::class.java,
                     "lilyium_db"
-                ).build()
+                )
+                    .fallbackToDestructiveMigration(true)
+                    .build()
 
                 INSTANCE = instance
                 instance
