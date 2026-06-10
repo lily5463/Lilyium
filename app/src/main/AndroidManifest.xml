@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <permission
+        android:name="${applicationId}.permission.PLAYBACK_SERVICE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"
+        tools:ignore="ForegroundServicesPolicy" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission
+        android:name="${applicationId}.permission.PLAYBACK_SERVICE" />
+
+    <application
+        android:name=".App"
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:enableOnBackInvokedCallback="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Lilyium">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Lilyium"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".player.PlaybackService"
+            android:enabled="true"
+            android:foregroundServiceType="mediaPlayback"
+            android:permission="${applicationId}.permission.PLAYBACK_SERVICE"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="androidx.media3.session.MediaSessionService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
