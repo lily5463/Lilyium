@@ -163,7 +163,7 @@ fun SearchPage(
                             contentPadding = PaddingValues(horizontal = 4.dp),
                             horizontalArrangement = Arrangement.spacedBy(12.dp)
                         ) {
-                            items(uiState.result.album!!) { album ->
+                            items(uiState.result.album.orEmpty()) { album ->
                                 Column(
                                     modifier = Modifier
                                         .width(130.dp)
@@ -212,7 +212,7 @@ fun SearchPage(
                             contentPadding = PaddingValues(horizontal = 4.dp),
                             horizontalArrangement = Arrangement.spacedBy(12.dp)
                         ) {
-                            items(uiState.result.artist!!) { artist ->
+                            items(uiState.result.artist.orEmpty()) { artist ->
                                 Column(
                                     horizontalAlignment = Alignment.CenterHorizontally,
                                     modifier = Modifier
@@ -247,7 +247,7 @@ fun SearchPage(
                 // Songs section — vertical list
                 if (!uiState.result.song.isNullOrEmpty()) {
                     item { SectionHeader("Songs") }
-                    items(uiState.result.song!!) { song ->
+                    items(uiState.result.song.orEmpty()) { song ->
                         ListItem(
                             headlineContent = {
                                 Text(song.title, maxLines = 1)
