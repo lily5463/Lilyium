@@ -13,7 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-<<<<<<< HEAD
 /app/release
-=======
->>>>>>> 2aa6b6dc8a8da4a13d57213e0fbba4bc4eb8a870
